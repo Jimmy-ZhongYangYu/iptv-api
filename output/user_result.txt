@@ -1,23 +1,23 @@
 🕘️更新时间,#genre#
-2025-01-18 17:43:34,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
+2025-01-18 18:57:16,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
 
 📺央视频道,#genre#
 CCTV-1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
 CCTV-2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp
-CCTV-3,http://223.241.247.214:9901/tsfile/live/0003_1.m3u8
-CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-5,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8
-CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6,http://223.241.247.214:9901/tsfile/live/0006_1.m3u8
+CCTV-3,http://119.36.148.115:59901/tsfile/live/0003_1.m3u8
+CCTV-4,http://61.157.139.15:9901/tsfile/live/2374_1.m3u8
+CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
+CCTV-5+,http://119.36.148.115:59901/tsfile/live/1003_1.m3u8
+CCTV-6,http://119.36.148.115:59901/tsfile/live/0006_1.m3u8
 CCTV-7,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=12706415551557919057&amp
-CCTV-8,http://223.241.247.214:9901/tsfile/live/0008_1.m3u8
+CCTV-8,http://119.36.148.115:59901/tsfile/live/0008_1.m3u8
 CCTV-9,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=17686352686599982856&amp
 CCTV-10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=9053765528789506188
-CCTV-11,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
+CCTV-11,http://119.36.148.115:59901/tsfile/live/0011_1.m3u8
 CCTV-12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730
-CCTV-13,http://223.241.247.214:9901/tsfile/live/0013_1.m3u8
+CCTV-13,http://119.36.148.115:59901/tsfile/live/0013_1.m3u8
 CCTV-14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862
-CCTV-15,http://223.241.247.214:9901/tsfile/live/0015_1.m3u8
+CCTV-15,http://119.36.148.115:59901/tsfile/live/0015_1.m3u8
 CCTV-16,http://58.17.116.69:9908/tsfile/live/0001_17.m3u8
 CCTV-17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=2038717225283627700
 
@@ -26,23 +26,23 @@ CCTV-17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?inners
 湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225
 北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611
 黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=3559146512286674480
-安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://223.241.247.214:85//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697
 吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736
 广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
-湖北卫视,http://223.241.247.214:9901/tsfile/live/0132_1.m3u8
+湖北卫视,http://119.36.148.115:59901/tsfile/live/0132_1.m3u8
 东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087
-甘肃卫视,http://223.241.247.214:9901/tsfile/live/0141_1.m3u8
-广西卫视,http://223.241.247.214:9901/tsfile/live/0113_1.m3u8
-贵州卫视,http://223.241.247.214:9901/tsfile/live/0120_1.m3u8
-海南卫视,http://61.157.139.15:9901/tsfile/live/2404_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+广西卫视,http://119.36.148.115:59901/tsfile/live/0113_1.m3u8
+贵州卫视,http://119.36.148.115:59901/tsfile/live/0120_1.m3u8
+海南卫视,http://119.36.148.115:59901/tsfile/live/1008_1.m3u8
 河北卫视,http://61.157.139.15:9901/tsfile/live/0117_1.m3u8
-河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8
+河南卫视,http://61.157.139.15:9901/tsfile/live/0139_1.m3u8
 江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=14912719076157451667
-江西卫视,http://223.241.247.214:9901/tsfile/live/0138_1.m3u8
-内蒙古卫视,http://183.66.15.146:60901/tsfile/live/0109_1.m3u8
+江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=2025
+内蒙古卫视,http://61.136.67.238:50085/tsfile/live/0109_1.m3u8
 宁夏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=2025
 青海卫视,http://61.157.139.15:9901/tsfile/live/2402_1.m3u8
 山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=3721212644869031100
@@ -51,12 +51,13 @@ CCTV-17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?inners
 四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933
 深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758
 三沙卫视,http://119.36.148.115:59901/tsfile/live/1009_1.m3u8
-天津卫视,http://223.241.247.214:9901/tsfile/live/1006_1.m3u8
+天津卫视,http://119.36.148.115:59901/tsfile/live/0135_1.m3u8
 西藏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=2025
 新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2025
-云南卫视,http://61.157.139.15:9901/tsfile/live/2401_1.m3u8
+云南卫视,http://119.36.148.115:59901/tsfile/live/0119_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
