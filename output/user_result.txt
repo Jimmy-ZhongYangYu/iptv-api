@@ -1,6 +1,3 @@
-🕘️更新时间,#genre#
-2025-01-24 11:38:00,http://z.b.bkpcp.top/m.php?id=cctv1
-
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
