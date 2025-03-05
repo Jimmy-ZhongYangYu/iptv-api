@@ -2,16 +2,16 @@
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4,http://tvpull.careryun.com/tv/cctv4.m3u8
-CCTV-5,http://tvpull.careryun.com/tv/cctv5.m3u8
+CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
+CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5p\
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p⁭
 CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
 CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10,http://tvpull.careryun.com/tv/cctv10.m3u8
-CCTV-11,http://tvpull.careryun.com/tv/cctv11.m3u8
-CCTV-12,http://tvpull.careryun.com/tv/cctv12.m3u8
+CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
+CCTV-11,http://z.b.bkpcp.top/m.php?id=CCTV-11戏曲戏曲
+CCTV-12,http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
@@ -62,4 +62,4 @@ CCTV-17,http://tvpull.careryun.com/tv/cctv17.m3u8
 凤凰卫视,http://iptv.diyp.tech/iptv.php?key=gat5&id=7f4703c71abe60b90887a794355363c8
 
 🕘️更新时间,#genre#
-2025-03-05 18:22:59,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-03-06 06:33:18,http://z.b.bkpcp.top/m.php?id=cctv1
